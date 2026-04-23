@@ -1,19 +1,19 @@
 {
-    "version": "0.6.4",
+    "version": "0.6.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/heyblueteam/cli/releases/download/v0.6.4/blue_windows_amd64.zip",
+            "url": "https://github.com/heyblueteam/cli/releases/download/v0.6.5/blue_windows_amd64.zip",
             "bin": [
                 "blue.exe"
             ],
-            "hash": "e9852c0f37c22d93a36aef18fbdbe884f14522f638954a52953636314706828b"
+            "hash": "d9f8cb24c840e42cbd073a1ffaf21236f593ee0a924aacb3d00e5158247c5ff2"
         },
         "arm64": {
-            "url": "https://github.com/heyblueteam/cli/releases/download/v0.6.4/blue_windows_arm64.zip",
+            "url": "https://github.com/heyblueteam/cli/releases/download/v0.6.5/blue_windows_arm64.zip",
             "bin": [
                 "blue.exe"
             ],
-            "hash": "46cb76993d7d6cb5dda1a1de408d7b17742b9da2d7afc04c79d4aaf3cd91dffd"
+            "hash": "727877749c26a3f309f5f617e8d5bb2093afbac68b982283d950883895a6775d"
         }
     },
     "homepage": "https://blue.cc",
