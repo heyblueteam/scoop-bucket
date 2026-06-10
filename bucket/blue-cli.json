@@ -1,22 +1,22 @@
 {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/heyblueteam/cli/releases/download/v0.8.0/blue_windows_amd64.zip",
+            "url": "https://github.com/heyblueteam/cli/releases/download/v0.9.0/blue_windows_amd64.zip",
             "bin": [
                 "blue.exe"
             ],
-            "hash": "23e5087f978dcbb80cca1f556fbb812757f6dd9052a36865e6bc5fb83a1c483e"
+            "hash": "cc04075834467ff9b69ab046f3f1f657cd912ee0a76621934cf7a9f2db5a08ab"
         },
         "arm64": {
-            "url": "https://github.com/heyblueteam/cli/releases/download/v0.8.0/blue_windows_arm64.zip",
+            "url": "https://github.com/heyblueteam/cli/releases/download/v0.9.0/blue_windows_arm64.zip",
             "bin": [
                 "blue.exe"
             ],
-            "hash": "d73afb599d2ec449cf57a7e42623d87d534303ac44a0f6eaa9e554ede698f36c"
+            "hash": "7553c440597426471111ec698d7edb3e74c9206d4c9c4f42cb74b4996778cf17"
         }
     },
-    "homepage": "https://blue.cc",
+    "homepage": "https://blue.app",
     "license": "Proprietary",
     "description": "CLI for Blue workspace management"
 }
